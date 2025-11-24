@@ -1,4 +1,4 @@
-External Sources:
-Dataset
-#Anish Dev Edward
-#https://www.kaggle.com/datasets/anishdevedward/loan-approval-dataset/data
+Clicking "Open in Colab" will open the file within Google Colab
+
+
+
